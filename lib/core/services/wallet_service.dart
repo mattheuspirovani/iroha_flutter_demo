@@ -1,0 +1,7 @@
+
+
+class WalletService {
+  void getLocalWallet() {
+    
+  }
+}
